@@ -1,4 +1,2 @@
-sample-backbone.js-app
+Sample Backbone.js Application
 ======================
-
-Sample Backbone.js App
